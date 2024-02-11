@@ -1,0 +1,18 @@
+* {
+  margin: 0px;
+  font-family: Quantico, sans-serif;
+  color: white;
+}
+
+h4 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+}
+
+@font-face {
+  font-family: 'Quantico';
+  src: url('../../public/fonts/quantico/Quantico-Bold.ttf');
+  src: url('../../public/fonts/quantico/Quantico-BoldItalic.ttf');
+  src: url('../../public/fonts/quantico/Quantico-Italic.ttf');
+  src: url('../../public/fonts/quantico/Quantico-Regular.ttf');
+}

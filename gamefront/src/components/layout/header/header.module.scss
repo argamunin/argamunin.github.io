@@ -1,0 +1,30 @@
+.header {
+  display: flex;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  height: 56px;
+  font-weight: bold;
+  background-color: #0c0c20;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 5;
+}
+.containerTabs {
+  display: flex;
+  margin-right: 15px;
+}
+
+.buttonTab {
+  border-color: transparent;
+  text-align: center;
+  background-color: transparent;
+  width: 100px;
+  height: 30px;
+  cursor: pointer;
+  font-size: large;
+}
+
+.icon {
+  margin-left: 10px;
+}

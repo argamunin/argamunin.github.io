@@ -1,0 +1,82 @@
+.container {
+  width: 100%;
+  height: 100%;
+}
+
+.h1 {
+  margin-top: 2.5%;
+  margin-bottom: 2.5%;
+  text-align: center;
+}
+
+.subtitulos {
+  margin-top: 2.5%;
+  margin-bottom: 0.5%;
+  margin-left: 2.5%;
+}
+
+.linea {
+  border: 1px solid white;
+  width: 95%;
+  margin-left: 2.5%;
+  margin-right: 2.5%;
+}
+
+.sectionGame {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 2.5%;
+  margin-top: 2%;
+  justify-content: space-between;
+}
+
+.containerCarousel {
+  margin-left: 2.5%;
+  width: 50%;
+}
+
+.containerDescription {
+  display: flex;
+  flex-direction: column;
+  margin-right: 2.5%;
+  width: 50%;
+}
+
+.sectionButton {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 2.5%;
+  margin-top: 5%;
+  justify-content: space-between;
+}
+
+.text {
+  text-align: justify;
+}
+
+.formalText {
+  font-family: sans-serif;
+}
+
+.buttonTab {
+  border-color: transparent;
+  border-radius: 5px;
+  text-align: center;
+  background-color: #1d428a;
+  width: 100px;
+  height: 30px;
+  cursor: pointer;
+  font-size: large;
+  box-shadow: 50px;
+}
+
+.sectionProject {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 2.5%;
+  margin: 2.5%;
+  justify-content: space-between;
+}

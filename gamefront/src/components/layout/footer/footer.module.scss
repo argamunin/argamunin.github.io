@@ -1,0 +1,23 @@
+.footer {
+  margin-top: auto;
+  background-color: #0c0c20;
+  height: 120px;
+}
+
+.containerTabs {
+  display: flex;
+  flex-direction: column;
+  margin-right: 15px;
+  align-items: center;
+}
+
+.buttonTab {
+  border-color: transparent;
+  text-align: center;
+  background-color: transparent;
+  width: 300px;
+  height: 30px;
+  cursor: pointer;
+  font-family: sans-serif;
+  text-decoration: underline;
+}
